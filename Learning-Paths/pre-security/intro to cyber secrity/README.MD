@@ -40,7 +40,3 @@ Learn the fundamental concepts of offensive security, defensive security, and ex
 - 🚀 Cybersecurity offers many career opportunities.
 
 ---
-
-## 📷 Screenshots
-
-Screenshots are available in the `screenshots/` folder.
