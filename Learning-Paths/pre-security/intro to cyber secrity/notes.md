@@ -19,4 +19,7 @@
 - Digital Forensics
 - Cloud Security Engineer
 
-
+## What I Learned
+- Difference between offensive and defensive security.
+- Ethical hacking requires permission.
+- Cybersecurity offers multiple career opportunities.
