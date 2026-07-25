@@ -31,5 +31,12 @@ Learn the fundamental concepts of offensive security, defensive security, and ex
 - ✅ Understand Ethical Hacking
 
 ---
+## 📌 Key Takeaways
 
+- 🛡️ Offensive Security focuses on finding vulnerabilities.
+- 🔍 Defensive Security focuses on protecting systems.
+- ⚖️ Ethical hacking always requires authorization.
+- 🚀 Cybersecurity offers many career opportunities.
+
+---
 
